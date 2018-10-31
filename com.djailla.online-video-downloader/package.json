@@ -2,6 +2,6 @@
     "type": "application",
     "id": "com.djailla.online-video-downloader",
     "version": "1.0.5-dev",
-    "depends": ["org.debian.jessie-lamp-1.0"],
+    "depends": ["com.ubuntu.trusty-lamp-1.0"],
     "network_ports": {"WEB_UI": 4576}
 }
